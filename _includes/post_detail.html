@@ -1,0 +1,14 @@
+<h1 class="entry-title">
+{% if page.title %}
+    <a href="{{ root_url }}{{ page.url }}">{{ page.title | escape }}</a>
+{% endif %}
+{% if post.title %}
+    <a href="{{ root_url }}{{ post.url }}">{{ post.title | escape }}</a>
+{% endif %}
+</h1>
+
+<header class="post-header">
+    <p class="post-meta"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%b %-d, %Y" }}</time>{% if post.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ post.author }}</span></span>{% endif %}</p>
+</header>
+
+<div class="entry-content">{{ content }}</div>
