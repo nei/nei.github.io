@@ -4,6 +4,7 @@ date:   2017-02-03 22:15:01 +0000
 categories: Goals
 author: nei
 layout: post
+comments: true
 ---
 Some days ago I was looking at some papers from about 6 years ago which I’ve written down my goals in both professional and personal life and this experience was astonishing. Have you tried this?
 

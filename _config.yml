@@ -19,6 +19,8 @@ google_analytics: UA-79593243-2
 markdown: kramdown
 theme: minima
 permalink: pretty
+disqus:
+    shortname: neis-blog
 gems:
   - jekyll-feed
   - jekyll-github-metadata
