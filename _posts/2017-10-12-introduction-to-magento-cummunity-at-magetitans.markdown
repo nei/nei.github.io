@@ -4,6 +4,7 @@ date:   2017-10-12 14:15:01 +0000
 categories: MageTitans
 author: nei
 layout: post
+comments: true
 ---
 
 <img alt="MageTitansMcr" src="{{ "/assets/magetitans-comedyclub.jpg" | absolute_url }}">
