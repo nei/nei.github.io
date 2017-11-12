@@ -1,6 +1,6 @@
 ---
 title:  "Welcome to my world!"
-date:   2017-10-12 22:15:01 +0000
+date:   2017-10-10 22:15:01 +0000
 categories: General
 author: nei
 layout: post
