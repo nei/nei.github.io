@@ -7,7 +7,7 @@ layout: post
 comments: true
 ---
 
-<img alt="MageTitansMcr" src="{{ "/assets/magetitans-comedyclub.jpg" | absolute_url }}">
+<img alt="MageTitansMcr" src="{{ "/assets/magetitans-comedyclub.png" | absolute_url }}">
 
 So, it is Sunday 2 PM in the cold Manchester and I just wake up thinking about Magento after the intensive MageTitans 2017.
 
@@ -20,7 +20,7 @@ On Friday, we had the Dev Exchange and Panel which was in the cool office of [Sp
 It ended with a Panel with three respected names from the community, including the Director of Operations of Magento. All that with good pizza and beers just to warm up to the next day :) All good stuff!
 
 <figure>
-    <img alt="Dev Exchange and Panel on Space48" src="{{ "/assets/magetitans-space48.jpg" | absolute_url }}">
+    <img alt="Dev Exchange and Panel on Space48" src="{{ "/assets/magetitans-space48.png" | absolute_url }}">
     <figcaption>Dev Exchange and Panel on Space48</figcaption>
 </figure>
 
