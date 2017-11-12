@@ -13,7 +13,7 @@ So, it is Sunday 2 PM in the cold Manchester and I just wake up thinking about M
 
 [MageTitans](http://uk.magetitans.com/) is a Magento Conference for Developers in the UK which aims to engage the Community. And I have to say that my experience was amazing and I really think they had hit the target.
 
-Side note: besides the event being in the UK there were people all over the world including some fellows citizen of me from Brazil. [@Luderson](https://twitter.com/Luderson) [@Luderson](https://twitter.com/Luderson) [@rodrigowebjump](https://twitter.com/rodrigowebjump) [@gabriel_indexa](https://twitter.com/gabriel_indexa)
+Side note: besides the event being in the UK there were people all over the world including some fellows citizen of me from Brazil. [@Luderson](https://twitter.com/Luderson) [@rodrigowebjump](https://twitter.com/rodrigowebjump) [@gabriel_indexa](https://twitter.com/gabriel_indexa)
 
 On Friday, we had the Dev Exchange and Panel which was in the cool office of [Spece48](https://www.space48.com/) where I had the opportunity to meet people from all over the world. We had an interesting presentation from Tom Erskine where he introduced the NEW Magento Functional Test Framework and there was an interesting exercise where we could sit on tables which had defined topics and exchange ideas about it. 
 
